@@ -2,6 +2,7 @@
 https://code.google.com/p/smarthosts/
 
 
+
 #Mirroed by EmiNarcissus
 Made some changes on mobile hosts,also replace official apk use github for update instead of unreachable googlecode in China
 
