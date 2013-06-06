@@ -1,6 +1,9 @@
 原来的网站：
 https://code.google.com/p/smarthosts/
 
+#Mirroed by EmiNarcissus
+Made some changes on mobile hosts,also replace official apk use github for update instead of unreachable googlecode in China
+
 Github 放一份镜像以备不时之需
 
 SmartHosts是一个托管在谷歌代码上的项目，您可以轻松利用本项目使用到一份稳定的Hosts文件。
